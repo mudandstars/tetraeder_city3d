@@ -76,8 +76,7 @@ add_subdirectory(model)
 add_subdirectory(renderer)
 add_subdirectory(method)
 
+add_subdirectory(tetraeder_city3d)  # personal example
 add_subdirectory(CLI_Example_1)  # command line example
 add_subdirectory(CLI_Example_2)  # command line example
 add_subdirectory(City3D)         # demo with GUI
-
-
